@@ -33,6 +33,18 @@ p {
         font-family: "roboto", Arial, sans-serif;
         font-size: 16px;
       }
+      
+      a{
+        text-decoration: underline;
+        text-decoration-color: red;
+        text-decoration-style: wavy;
+      }
+
+      .different-p {
+        color: rgb(255,0,0);
+        color: #000000;
+      }
+      
 
       
 
