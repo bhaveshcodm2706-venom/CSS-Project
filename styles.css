@@ -53,12 +53,24 @@ p {
         .difft-div {
           width: 200px;
           height: 100px;
-          overflow: auto;
+          overflow: scroll;
         }
 
         span {
           background-color: lightgoldenrodyellow;
           width: 100px;
+        }
+
+        .display-1 {
+          width: 200px;
+          height: 50;
+          background-color: aqua;
+        }
+        .display-2 {
+          width: 200px;
+          height: 50;
+          background-color: blue;
+
         }
         
         
