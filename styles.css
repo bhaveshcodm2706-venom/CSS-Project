@@ -54,7 +54,11 @@ p {
           width: 200px;
           height: 100px;
           overflow: auto;
-          
+        }
+
+        span {
+          background-color: lightgoldenrodyellow;
+          width: 100px;
         }
         
         
