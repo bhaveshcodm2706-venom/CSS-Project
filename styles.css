@@ -53,7 +53,7 @@ p {
         .difft-div {
           width: 200px;
           height: 100px;
-          overflow: scroll;
+          overflow: scroll;       
         }
 
         span {
@@ -64,15 +64,21 @@ p {
         .display-1 {
           width: 200px;
           height: 50;
-          background-color: aqua;
+          background-color: aqua;     
         }
         .display-2 {
           width: 200px;
           height: 50;
           background-color: blue;
-
+         
         }
         
+        .box {
+          display: inline-block;
+          width: 150px;
+          height: 100px;
+          margin: 10px;
+        }
         
 
 
