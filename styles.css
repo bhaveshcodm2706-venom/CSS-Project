@@ -41,10 +41,17 @@ p {
       }
 
       .different-p {
-        color: rgb(255,0,0);
-        color: #000000;
-      }
-      
+        color:rgb(255,0,0);
+        background-color: #000000;
+        }
+
+        .card {
+            padding:10px 20px;
+            margin:15px 30px;
+        }
+        
+        
+
 
       
 
