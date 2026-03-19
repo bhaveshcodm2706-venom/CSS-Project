@@ -28,6 +28,12 @@ p {
         text-transform: uppercase;
       }
 
+      body {
+        font-family:poppins;
+        font-family: "roboto", Arial, sans-serif;
+        font-size: 16px;
+      }
+
       
 
       
