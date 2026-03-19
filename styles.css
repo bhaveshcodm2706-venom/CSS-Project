@@ -80,7 +80,13 @@ p {
           margin: 10px;
         }
         
-
+        .dis-1 {
+          display: none;
+        }
+        
+        .dis-2 {
+          visibility: hidden;
+        }
 
       
 
