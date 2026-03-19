@@ -1,16 +1,33 @@
-div {
+p {
   background-color: lightgray;
   }
+
   .box {
      width: 200px ;
      height: 100px ;
     background-color: lightblue;
 
     }
+
     #title {
       color: green;
       }
+    
+      .different-div {
+        width: 250px;
+        padding: 20px;
+        border:3px solid black ;
+        margin: 15px;
+        box-sizing: border-box
+
+      }
+
       
+
+      
+      
+
+
       
     
   
