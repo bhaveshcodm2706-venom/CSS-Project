@@ -134,7 +134,11 @@ p {
           padding: 2em;
         }
 
-        
+        .rem {
+          font-size: 2rem;
+        }
+
+
       
 
       
